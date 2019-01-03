@@ -10,9 +10,3 @@ Thanks to:
 
 # To read  
 [So I Suck At 24: Automating Card Games Using OpenCV and Python](https://arnab.org/blog/so-i-suck-24-automating-card-games-using-opencv-and-python)  
-
-* SSD
-* Faster RCNNS
-* YOLO
-* Mobile nets
-* HOGs

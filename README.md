@@ -1,6 +1,10 @@
 # Learning-Artificial-Vision
 Some Artificial Vision code
 
+# OpenCV tutorial
+* [Import images](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/Import_images.ipynb)
+* [Import videos and use USB cameras](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/import_videos_USB_cameras.ipynb)
+
 # References
 Thanks to:   
 * [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)  

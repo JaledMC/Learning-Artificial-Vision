@@ -1,15 +1,6 @@
 # Learning-Artificial-Vision
 Some Artificial Vision code
 
-
-SSD
-Faster RCNNS
-YOLO
-Mobile nets
-HOGs
-
-
-
 # References
 Thanks to:   
 [OpenCV-Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)  
@@ -19,3 +10,9 @@ Adrian Rosebrock for [pyimagesearch](https://www.pyimagesearch.com/)
 
 # To read  
 [So I Suck At 24: Automating Card Games Using OpenCV and Python](https://arnab.org/blog/so-i-suck-24-automating-card-games-using-opencv-and-python)  
+
+* SSD
+* Faster RCNNS
+* YOLO
+* Mobile nets
+* HOGs

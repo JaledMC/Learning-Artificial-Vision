@@ -10,8 +10,7 @@ Some Artificial Vision code
 ## Video processing
 * [Import videos and use USB cameras](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/import_videos_USB_cameras.ipynb)
 * [Drawing functions on video](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/drawing_functions_video.ipynb)
-
-* []()
+* [Concatenate multiple video frames](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/Concatenate_multiple_video_frames.ipynb)
 
 # References
 Thanks to:   

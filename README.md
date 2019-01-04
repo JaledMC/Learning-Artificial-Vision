@@ -11,6 +11,7 @@ Some Artificial Vision code
 * [Import videos and use USB cameras](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/import_videos_USB_cameras.ipynb)
 * [Drawing functions on video](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/drawing_functions_video.ipynb)
 * [Concatenate multiple video frames](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/Concatenate_multiple_video_frames.ipynb)
+* [Arithmetic operations on videos](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/arithmetic_operations_videos.ipynb)
 
 # References
 Thanks to:   

@@ -2,11 +2,15 @@
 Some Artificial Vision code
 
 # OpenCV tutorial
+## Image processing
 * [Import images](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/Import_images.ipynb)
-* [Import videos and use USB cameras](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/import_videos_USB_cameras.ipynb)
 * [Drawing functions on images](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/drawing_functions_images.ipynb)
-* [Drawing functions on video](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/drawing_functions_video.ipynb)
 * [Arithmetic Operations on Images](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/arithmetic_operations_images.ipynb)
+
+## Video processing
+* [Import videos and use USB cameras](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/import_videos_USB_cameras.ipynb)
+* [Drawing functions on video](https://github.com/JaledMC/Learning-Artificial-Vision/blob/master/drawing_functions_video.ipynb)
+
 * []()
 
 # References

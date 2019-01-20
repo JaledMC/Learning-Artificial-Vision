@@ -33,5 +33,5 @@ Thanks to:
 
 # To read  
 [So I Suck At 24: Automating Card Games Using OpenCV and Python](https://arnab.org/blog/so-i-suck-24-automating-card-games-using-opencv-and-python)  
+[How to measure distance between two objects in a video](http://answers.opencv.org/question/177732/how-to-measure-distance-between-2-objects-in-a-video-edited/)
 
-http://answers.opencv.org/question/177732/how-to-measure-distance-between-2-objects-in-a-video-edited/
